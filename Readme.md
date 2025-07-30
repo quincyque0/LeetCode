@@ -11,4 +11,4 @@ Future expansion to Python / JavaScript is possible.
 
 ## 📊 My LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/quincyque0?theme=dark&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/udziron?theme=dark&ext=contest)
