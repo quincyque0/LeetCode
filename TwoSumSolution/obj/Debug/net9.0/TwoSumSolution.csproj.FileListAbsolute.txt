@@ -1,0 +1,14 @@
+C:\GitHub\LeetCode\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.exe
+C:\GitHub\LeetCode\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.deps.json
+C:\GitHub\LeetCode\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.runtimeconfig.json
+C:\GitHub\LeetCode\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.dll
+C:\GitHub\LeetCode\TwoSumSolution\bin\Debug\net9.0\TwoSumSolution.pdb
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.AssemblyInfoInputs.cache
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.AssemblyInfo.cs
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.csproj.CoreCompileInputs.cache
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.dll
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\refint\TwoSumSolution.dll
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.pdb
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\TwoSumSolution.genruntimeconfig.cache
+C:\GitHub\LeetCode\TwoSumSolution\obj\Debug\net9.0\ref\TwoSumSolution.dll
